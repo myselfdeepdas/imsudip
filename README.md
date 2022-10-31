@@ -24,13 +24,13 @@
     <h2 align="center"></h2>
     <p align="center">
       <br/>
-      <a href="www.linkedin.com/in/prativa-chakraborty" target="blank"><img align="center"
+      <a href="www.linkedin.com/in/imsudip" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mailto:2000prativa@gmail.com" target="blank"><img align="center"
+      <a href="mailto:sudipghosh9333@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-         <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
+         <a href="https://wa.me/+917908646141" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
